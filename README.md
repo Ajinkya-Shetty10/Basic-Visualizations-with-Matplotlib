@@ -1,5 +1,4 @@
-# Explore-Matplotlib
-Basic Visualizations with Matplotlib
+# Basic Visualizations with Matplotlib
 This repository demonstrates how to create fundamental visualizations using the Python library Matplotlib. It includes several examples and code snippets to help users understand how to visualize data efficiently and effectively. The visualizations showcased can be applied to various datasets and scenarios.
 
 
